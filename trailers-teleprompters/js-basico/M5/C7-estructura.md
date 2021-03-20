@@ -1,28 +1,11 @@
 # Cápsula 7: Formularios y Eventos
 
-
 ## Entrada
-
-En esta capsula, hablaremos sobre las estructuras de control y sus operadores.
-
-- ¿Qué es un operador?
-- ¿Cuáles son los tipos que existen y para qué? ¿Para qué nos sirven usarlas?
--Como todo esto permite que un programa decida caminos para ejecutarse. 
-- Y, finalmente, Hablar sobre lo que es una condición y el concepto verdadero/falso.
-
-Echemos un vistazo a cada uno de ellos.
-
+En esta capsula, hablaremos sobre los formularios y eventos.
+El usuario va a quere interactuar con la aplicación a traves del ingreso de datos. Nosotros, debemos capturar esos datos, procesarlos y devolverle un resultado.
+En esta cápsula, aprenderemos a realizar ese proceso.
 Comencemos.
 
-## CÁPSULA TÉCNICA - LOOM
-
-
-
 ## Salida
-
-
-Excelente. En este momento, acabas de comprender cómo utilizar estructuras de control.
-
-La siguiente cápsula te va a gustar mucho, porque nos permite crear código que puede repetirse múltiples veces. Escribes una vez, consumes las veces que quieras.
-
-Te veo ahí.
+Excelente. Ya comprendemos cómo funcionan los formularios. En este momento, vas a observar que en tu lista de ejercicios tienes una sección que se llama proyecto. Trata de seguirlo y hacerlo al pie de la letra para coincidir todo lo que llevamos. Tómate tu tiempo, repasa todo lo que has visto y al terminar, cuéntanos en los comentarios.
+De aquí, vamos a la última cápsula para hablar sobre conclusiones de este curso y siguientes pasos en esta carrera que acabas de iniciar.

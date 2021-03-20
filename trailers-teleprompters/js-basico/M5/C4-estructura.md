@@ -1,28 +1,8 @@
 # Cápsula 4: Eventos I
-
-
 ## Entrada
-
-En esta capsula, hablaremos sobre las estructuras de control y sus operadores.
-
-- ¿Qué es un operador?
-- ¿Cuáles son los tipos que existen y para qué? ¿Para qué nos sirven usarlas?
--Como todo esto permite que un programa decida caminos para ejecutarse. 
-- Y, finalmente, Hablar sobre lo que es una condición y el concepto verdadero/falso.
-
-Echemos un vistazo a cada uno de ellos.
-
+En esta capsula, hablaremos sobre los eventos. Cómo interactúa el navegador con la interacción de los usuarios y cómo trasladamos todos estos datos hacia nuestro código de JavaScript.
+Nos centraremos puntualmente en "click", el cuál es el más usado y cómo para aprender en este momento.
 Comencemos.
 
-## CÁPSULA TÉCNICA - LOOM
-
-
-
 ## Salida
-
-
-Excelente. En este momento, acabas de comprender cómo utilizar estructuras de control.
-
-La siguiente cápsula te va a gustar mucho, porque nos permite crear código que puede repetirse múltiples veces. Escribes una vez, consumes las veces que quieras.
-
-Te veo ahí.
+Hemos logrado un gran avance con este evento. En la siguiente cápsula practicaremos con ejemplos más complejos para que puedas darte una idea cómo crecer la aplicación.
